@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.Toast;
 
-
+//halo
 public class tab2_fragment extends Fragment {
     private static final String TAG = "tab2_fragment";
     private Button BTNdaftarGedung;
