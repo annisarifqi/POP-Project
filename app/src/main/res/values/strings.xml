@@ -20,4 +20,11 @@
     <string name="text_fragment2">Daftar Gedung</string>
     <string name="text_fragment1">Cari Gedung</string>
 
+    <string name="title_activity_detail">Biofarma</string>
+    <string name="large_text">
+        "POP Project is on progress...\n\n"
+
+    </string>
+    <string name="action_settings">Settings</string>
+
 </resources>
