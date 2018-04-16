@@ -1,5 +1,25 @@
 <resources>
-    <string name="app_name">ProjectPOP</string>
+    <string name="app_name">POP</string>
+    <string name="nama_gedung">Nama Gedung</string>
+    <string name="edit_nama_gedung">Your Entry</string>
+    <string name="lokasi_gedung">Lokasi Gedung</string>
+    <string name="edit_lokasi_gedung">Your Entry</string>
+    <string name="harga">Harga</string>
+    <string name="edit_harga">Your Entry</string>
+    <string name="fasilitas">Fasilitas</string>
+    <string name="edit_fasilitas">Your Entry</string>
+    <string name="simpan_daftar_gedung">Simpan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tab_label1">Cari</string>
+    <string name="tab_label2">Daftar</string>
+    <string name="tab_label3">Gedung</string>
+    <string name="tab_label4">Menu</string>
+    <string name="text_fragment2">Daftar Gedung</string>
+    <string name="text_fragment1">Cari Gedung</string>
+
     <string name="title_activity_detail">Biofarma</string>
     <string name="large_text">
         "Material is the metaphor.\n\n"
@@ -91,4 +111,5 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="action_settings">Settings</string>
+
 </resources>
